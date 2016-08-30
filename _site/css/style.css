@@ -485,7 +485,8 @@
 		.card img
 		{
 			display: block;
-			width: 100%;
+			width: 70%;
+			margin: auto;
 			margin-bottom: 2em;
 		}
 
